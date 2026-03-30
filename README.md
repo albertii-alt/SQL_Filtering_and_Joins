@@ -2,24 +2,24 @@
 > **Semi-Final Project Requirement**
 
 ## 👤 Student Information
-* [cite_start]**Name:** Alberto Daro Jr. [cite: 54]
-* [cite_start]**Database Name:** `daro_albertojr` [cite: 13, 54]
+* **Name:** Alberto Daro Jr. [cite: 54]
+* **Database Name:** `daro_albertojr` [cite: 13, 54]
 
 ---
 
 ## 📝 Project Overview
 This repository contains the SQL implementation for a practice activity focused on database management, complex data filtering, and various JOIN operations. The project is divided into two main sections:
 
-1.  [cite_start]**Customer Data Filtering:** Using logical operators (`AND`, `OR`), range filtering (`BETWEEN`, `IN`), and pattern matching (`LIKE`)[cite: 22, 23, 24, 25, 26, 27].
-2.  [cite_start]**Hospital Management System JOINS:** Implementing Basic, Filtering, and Analytical (Left/Right) JOINS between `Patients` and `Appointments` tables[cite: 28, 71, 72].
+1.  **Customer Data Filtering:** Using logical operators (`AND`, `OR`), range filtering (`BETWEEN`, `IN`), and pattern matching (`LIKE`)[cite: 22, 23, 24, 25, 26, 27].
+2.  **Hospital Management System JOINS:** Implementing Basic, Filtering, and Analytical (Left/Right) JOINS between `Patients` and `Appointments` tables[cite: 28, 71, 72].
 
 ---
 
 ## 📂 Repository Contents
-* [cite_start]**`daro_albertojr.sql`**: The complete SQL script containing the database schema, data insertion, and all exercise queries[cite: 31, 37, 42].
+* **`daro_albertojr.sql`**: The complete SQL script containing the database schema, data insertion, and all exercise queries[cite: 31, 37, 42].
 * **Screenshots**: Execution results for all required tasks[cite: 29, 47]:
-    * [cite_start]Table creation and record insertion[cite: 19, 49].
-    * [cite_start]Results of 10 different filtering queries[cite: 50].
+    * Table creation and record insertion[cite: 19, 49].
+    * Results of 10 different filtering queries[cite: 50].
     * Results of the JOIN operation tasks[cite: 51].
 
 ---
