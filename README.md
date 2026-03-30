@@ -1,1 +1,34 @@
-SQL Filtering and JOIN Practice ActivitySemi-Final Project Requirement👤 Student InformationName: Alberto Daro Jr. Database Name: daro_albertojr 📝 Project OverviewThis repository contains the SQL implementation for a practice activity focused on database management, complex data filtering, and various JOIN operations. The project is divided into two main sections:Customer Data Filtering: Using logical operators (AND, OR), range filtering (BETWEEN, IN), and pattern matching (LIKE).Hospital Management System JOINS: Implementing Basic, Filtering, and Analytical (Left/Right) JOINS between Patients and Appointments tables.🛠️ Tech StackDatabase: MySQL Tools used: KSWeb (Mobile) or XAMPP/MySQL Workbench (Laptop) Version Control: GitHub 📂 Repository Contentsdaro_albertojr.sql: The complete SQL script containing the database schema, data insertion, and all exercise queries./screenshots: A folder containing all execution results for:Table creation and record insertion.Results of 10 different filtering queries.Results of the JOIN operation tasks.🚀 How to RunCreate a database named daro_albertojr.Import the provided .sql file into your MySQL environment.Execute the queries to verify the results as shown in the screenshots.
+# 🏥 SQL Filtering and JOIN Practice Activity
+> **Semi-Final Project Requirement**
+
+## 👤 Student Information
+* [cite_start]**Name:** Alberto Daro Jr. [cite: 54]
+* [cite_start]**Database Name:** `daro_albertojr` [cite: 13, 54]
+
+---
+
+## 📝 Project Overview
+This repository contains the SQL implementation for a practice activity focused on database management, complex data filtering, and various JOIN operations. The project is divided into two main sections:
+
+1.  [cite_start]**Customer Data Filtering:** Using logical operators (`AND`, `OR`), range filtering (`BETWEEN`, `IN`), and pattern matching (`LIKE`)[cite: 22, 23, 24, 25, 26, 27].
+2.  [cite_start]**Hospital Management System JOINS:** Implementing Basic, Filtering, and Analytical (Left/Right) JOINS between `Patients` and `Appointments` tables[cite: 28, 71, 72].
+
+---
+
+## 📂 Repository Contents
+* [cite_start]**`daro_albertojr.sql`**: The complete SQL script containing the database schema, data insertion, and all exercise queries[cite: 31, 37, 42].
+* **Screenshots**: Execution results for all required tasks[cite: 29, 47]:
+    * [cite_start]Table creation and record insertion[cite: 19, 49].
+    * [cite_start]Results of 10 different filtering queries[cite: 50].
+    * Results of the JOIN operation tasks[cite: 51].
+
+---
+
+## 🚀 How to Run
+1.  Install **KSWeb** (Mobile) or **XAMPP/MySQL Workbench** (Laptop)[cite: 4, 8].
+2.  Create a database named `daro_albertojr`[cite: 12, 13].
+3.  Import the provided `.sql` file into your MySQL environment[cite: 6, 9].
+4.  Execute the queries to verify the results as shown in the screenshots[cite: 53].
+
+---
+*Submitted as part of the Semi-Final Project requirements.* [cite: 1, 55]
